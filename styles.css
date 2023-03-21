@@ -6,13 +6,13 @@
   --header-height: 3rem;
 
   /*========== Colors ==========*/
-  --first-color: #006bc4;
-  --first-color-alt: #0e4f85;
+  --first-color: #273B69;
+  --first-color-alt: #1A2A52;
   --first-color-send: #ffcd00;
-  --title-color: #161212;
+  --title-color: #1A2A52;
   --text-color: #5b5757;
   --text-color-light: #8f8a8a;
-  --body-color: #fefbfb;
+  --body-color: #F3F5F7;
   --container-color: #fff;
 
   /*========== Font and typography ==========*/
@@ -931,10 +931,7 @@ time {
   border-radius: 0.6rem;
   width: 20vw;
 }
-.sponsor-container {
-  margin: 5% 10%; 
-/*   width: 60%; */
-}
+
 
 
 /* Slick -- Slider */
