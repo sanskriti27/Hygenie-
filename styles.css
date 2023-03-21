@@ -1096,13 +1096,16 @@ time {
 
 /* Team */
 
+
 .team-grid {
   display: grid;
   gap: 1rem;
+  margin: auto;
 }
 
 .team_data{
   width: 220px;
+  justify-self: center;
 }
 
 #team_render{
